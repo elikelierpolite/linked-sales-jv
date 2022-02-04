@@ -1,0 +1,110 @@
+<svg width="46" height="55" xmlns="http://www.w3.org/2000/svg" stroke="null">
+ <title>Linked Favicon</title>
+ <defs stroke="null">
+  <filter id="svg_106_blur" stroke="null">
+   <feGaussianBlur stdDeviation="0.2" in="SourceGraphic" stroke="null"/>
+  </filter>
+  <filter id="svg_108_blur" stroke="null">
+   <feGaussianBlur stdDeviation="0.3" in="SourceGraphic" stroke="null"/>
+  </filter>
+  <filter id="svg_110_blur" stroke="null">
+   <feGaussianBlur stdDeviation="0.6" in="SourceGraphic" stroke="null"/>
+  </filter>
+  <filter id="svg_113_blur" stroke="null">
+   <feGaussianBlur stdDeviation="0.4" in="SourceGraphic" stroke="null"/>
+  </filter>
+  <filter id="svg_114_blur" stroke="null">
+   <feGaussianBlur stdDeviation="0.2" in="SourceGraphic" stroke="null"/>
+  </filter>
+  <filter id="svg_115_blur" stroke="null">
+   <feGaussianBlur stdDeviation="1" in="SourceGraphic" stroke="null"/>
+  </filter>
+  <linearGradient y2="1" x2="1" y1="0" x1="0" id="svg_157" stroke="null">
+   <stop stop-opacity="0.99609" offset="0" stop-color="#007fff" stroke="null"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#ff0000" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+  </linearGradient>
+  <linearGradient y2="0.00079" x2="1" y1="1" x1="0" id="svg_159" stroke="null">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ffaad4" stroke="null"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#3f007f" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0" stroke="null"/>
+  </linearGradient>
+  <linearGradient y2="0.59454" x2="0.48047" y1="0" x1="0" id="svg_152" stroke="null">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#00ffff" stroke="null"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#3f007f" stroke="null"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0.50079" x1="0.39844" id="svg_150" stroke="null">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#00007f" stroke="null"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#56ffaa" stroke="null"/>
+  </linearGradient>
+  <linearGradient y2="1" x2="0.98438" y1="0.45782" x1="0.56641" id="svg_153" stroke="null">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ff56aa" stroke="null"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#ffff00" stroke="null"/>
+  </linearGradient>
+ </defs>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g stroke="null" id="svg_5">
+   <path stroke="#000000" filter="url(#svg_106_blur)" id="svg_106" d="m0.19429,27.56242l22.86817,-27.43123l22.86817,27.43123l-22.86817,27.43123l-22.86817,-27.43123z" stroke-width="0" fill="url(#svg_157)"/>
+   <path stroke="#000000" filter="url(#svg_108_blur)" id="svg_108" d="m12.16669,13.42935l22.82462,1.36328l-1.24224,27.05467l-22.82462,-1.36328l1.24224,-27.05467z" stroke-width="0" fill="url(#svg_159)"/>
+   <path stroke="#000000" filter="url(#svg_110_blur)" id="svg_110" d="m11.73782,27.5399l11.32501,-13.38525l11.32501,13.38525l-11.32501,13.38525l-11.32501,-13.38525z" stroke-width="0" fill="url(#svg_152)"/>
+   <path stroke="#000000" filter="url(#svg_113_blur)" id="svg_113" d="m17.57482,34.30255l-0.10175,-13.5689l11.26153,-0.35106l0.10175,13.5689l-11.26153,0.35106z" stroke-width="0" fill="url(#svg_150)"/>
+   <path stroke="#000000" filter="url(#svg_114_blur)" id="svg_114" d="m17.52879,27.39897l5.59843,-6.74351l5.59843,6.74351l-5.59843,6.74351l-5.59843,-6.74351z" stroke-width="0" fill="url(#svg_153)"/>
+   <path stroke="#000000" filter="url(#svg_115_blur)" id="svg_115" d="m20.23267,30.56425l0.2657,-6.72924l5.58376,0.3851l-0.2657,6.72924l-5.58376,-0.3851z" stroke-width="0" fill="#00007f"/>
+  </g>
+ </g>
+</svg>
